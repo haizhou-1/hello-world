@@ -1,2 +1,5 @@
 # hello-world
-My first GitHub Repository
+
+Hi Everyone!
+
+Haizhou here, I like C/C++ and Python.
